@@ -8,6 +8,7 @@ namespace Interview_Preparation
         {
             var flag = ValidParenthisis.Solution.IsValid("({}");
             var lengthOfLastWord = LengthOfLastWord.Solution.LengthOfLastWord("Hello  World");
+            var reverseWords = ReverseWords.Solution.ReverseWords("the sky is blue");
         }
     }
 }

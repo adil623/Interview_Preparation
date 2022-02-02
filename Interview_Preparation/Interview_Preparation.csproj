@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\LengthOfLastWord\LengthOfLastWord.csproj" />
+    <ProjectReference Include="..\ReverseWords\ReverseWords.csproj" />
     <ProjectReference Include="..\ValidParenthisis\ValidParenthisis.csproj" />
   </ItemGroup>
 
