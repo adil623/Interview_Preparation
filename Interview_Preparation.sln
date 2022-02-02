@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interview_Preparation", "Interview_Preparation\Interview_Preparation.csproj", "{88CBE492-5E92-4BCC-A623-147A23B3FBBD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LeetCode", "LeetCode", "{CD19F78B-7194-4B65-8814-A244762EE365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParenthisis", "ValidParenthisis\ValidParenthisis.csproj", "{219FE4E1-6AF2-44F3-8323-CA52833E4DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LengthOfLastWord", "LengthOfLastWord\LengthOfLastWord.csproj", "{FC22DCC8-ED65-45AA-BECC-106BDC7369A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88CBE492-5E92-4BCC-A623-147A23B3FBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88CBE492-5E92-4BCC-A623-147A23B3FBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88CBE492-5E92-4BCC-A623-147A23B3FBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88CBE492-5E92-4BCC-A623-147A23B3FBBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{219FE4E1-6AF2-44F3-8323-CA52833E4DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219FE4E1-6AF2-44F3-8323-CA52833E4DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219FE4E1-6AF2-44F3-8323-CA52833E4DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219FE4E1-6AF2-44F3-8323-CA52833E4DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC22DCC8-ED65-45AA-BECC-106BDC7369A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC22DCC8-ED65-45AA-BECC-106BDC7369A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC22DCC8-ED65-45AA-BECC-106BDC7369A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC22DCC8-ED65-45AA-BECC-106BDC7369A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{219FE4E1-6AF2-44F3-8323-CA52833E4DFE} = {CD19F78B-7194-4B65-8814-A244762EE365}
+		{FC22DCC8-ED65-45AA-BECC-106BDC7369A6} = {CD19F78B-7194-4B65-8814-A244762EE365}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E073FD3A-A67F-4AB4-A8DB-D4CC0C1B8F49}
+	EndGlobalSection
+EndGlobal
